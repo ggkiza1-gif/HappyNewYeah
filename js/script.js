@@ -546,7 +546,7 @@ store.subscribe(handleStateChange);
 // Mảng câu chúc màu hồng
 const WISH_MESSAGES = [
 	"Chúc chị sinh nhật vui vẻ",
-	"Tuổi mới nhìu tìền",
+	"Tuổi mới ngày càng xinh đẹp nhìu tìền",
 	"Chúc mọi điều ước của chị đều trở thành hiện thực ✨",
 	"Chúc chị luôn bình an và hạnh phúc ❤️",
 	"Chúc chị luôn khỏe mạnh và tràn đầy năng lượng 💪",
