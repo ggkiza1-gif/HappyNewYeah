@@ -545,14 +545,14 @@ store.subscribe(handleStateChange);
 
 // Mảng câu chúc màu hồng
 const WISH_MESSAGES = [
-	"Năm mới an khang thịnh vượng",
-	"Năm mới bình an",
-	"Chúc mọi điều ước của em đều trở thành hiện thực ✨",
-	"Chúc gia đình em luôn bình an và hạnh phúc ❤️",
-	"Chúc em luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc công việc thuận lợi, thăng tiến không ngừng 🚀",
-	"Chúc em luôn mỉm cười và yêu đời mỗi ngày 😊",
-	"Chúc em gặp nhiều may mắn và niềm vui 🎉",
+	"Chúc chị sinh nhật vui vẻ",
+	"Tuổi mới nhìu tìn",
+	"Chúc mọi điều ước của chị đều trở thành hiện thực ✨",
+	"Chúc chị luôn bình an và hạnh phúc ❤️",
+	"Chúc chị luôn khỏe mạnh và tràn đầy năng lượng 💪",
+	"Chúc chị công việc thuận lợi, thăng tiến không ngừng 🚀",
+	"Ngày càng xinh đẹp iu đời 😊",
+	"Chúc chị gặp nhiều may mắn và niềm vui 🎉",
 ];
 
 // Sinh 1 câu chúc bay lên
